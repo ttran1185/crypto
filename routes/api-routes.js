@@ -2,10 +2,10 @@
 const mysql = require('mysql2');
 // connection configurations
 const connection = mysql.createConnection({
-    host: 'tj5iv8piornf713y.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-    user: 're2n4z84gpws0cbn',
-    password: 'iupdavy6n14u6wfc',
-    database: 'r9lh7uwbposuvlg6'
+    host: 'f2fbe0zvg9j8p9ng.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+    user: 'u3vfu0u82u0d9jyt',
+    password: 'uqgilq8s85emmom5',
+    database: 'pbtbht79duaerfrb'
 });
 
 // connect to database
